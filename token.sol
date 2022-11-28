@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
-// https://github.com/Adaikyzy/TBlab7
+// https://github.com/Nurasyl1/LABKA7
 interface IERC20 {
     function totalSupply() external view returns (uint);
 
